@@ -8,7 +8,7 @@
 
 A comparative psychological and market-structure analysis of **physical TCG ecosystems**, **NFT/crypto markets**, **livestream rip-and-ship economies**, and **gacha-style digital monetization** — with every empirical claim tied to peer-reviewed literature, regulator reports, or documented incidents.
 
-**Author:** [Joseph Edwards (@GatoGodMode)](https://github.com/GatoGodMode)
+**Author:** [Joseph Edwards (@RawPowered)](https://github.com/RawPowered)
 
 ---
 
@@ -82,9 +82,9 @@ This repo publishes the **static research artifact** for GitHub reading and cita
 
 ## Related work
 
-- **[TheMoun Market Research](https://github.com/GatoGodMode/GatoGodMode/blob/main/docs/TheMoun-Market-Research.md)** — integrated capture workstation market thesis
-- **[RawInvestor](https://github.com/GatoGodMode/RawInvestor)** — local-first TCG market signals and grading EV
-- **[@GatoGodMode profile](https://github.com/GatoGodMode)** — full builder portfolio
+- **[TheMoun product overview](https://github.com/RawPowered/TheMoun)** — integrated capture workstation concept and current public-material scope
+- **[RawInvestor](https://github.com/RawPowered/RawInvestor)** — local-first TCG market signals and grading EV
+- **[@RawPowered profile](https://github.com/RawPowered)** — full builder portfolio
 
 ---
 
