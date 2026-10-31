@@ -6,7 +6,7 @@
 ![Sources](https://img.shields.io/badge/Citations-68%20verified%20sources-2ea44f)
 ![Topics](https://img.shields.io/badge/Topics-TCG%20%C2%B7%20Crypto%20%C2%B7%20NFT%20%C2%B7%20Gacha-1f6feb)
 
-A comparative psychological and market-structure analysis of **physical TCG ecosystems**, **NFT/crypto markets**, **livestream rip-and-ship economies**, and **gacha-style digital monetization** — with every empirical claim tied to peer-reviewed literature, regulator reports, or documented incidents.
+A comparative psychological and market-structure analysis of **physical TCG ecosystems**, **NFT/crypto markets**, **livestream rip-and-ship economies**, and **gacha-style digital monetization**: with every empirical claim tied to peer-reviewed literature, regulator reports, or documented incidents.
 
 **Author:** [Joseph Edwards (@RawPowered)](https://github.com/RawPowered)
 
@@ -16,8 +16,8 @@ A comparative psychological and market-structure analysis of **physical TCG ecos
 
 | Document | Description |
 |---|---|
-| **[Neuro-Economic Collectibles Research](docs/Neuro-Economic-Collectibles-Research.md)** | Full essay — WXYZ framework, reinforcement loops, rug pulls, psychographics, gacha/casino dynamics, art essentialism |
-| **[references.json](references/references.json)** | Canonical bibliography — 68 sources with DOIs, claim tags, and in-text `[n]` citation IDs |
+| **[Neuro-Economic Collectibles Research](docs/Neuro-Economic-Collectibles-Research.md)** | Full essay; WXYZ framework, reinforcement loops, rug pulls, psychographics, gacha/casino dynamics, art essentialism |
+| **[references.json](references/references.json)** | Canonical bibliography; 68 sources with DOIs, claim tags, and in-text `[n]` citation IDs |
 
 ---
 
@@ -33,7 +33,7 @@ A comparative psychological and market-structure analysis of **physical TCG ecos
 - Whale concentration and skewed trader activity on-chain
 - Rug-pull prevalence and contract-level fraud patterns (measurement studies)
 - Psychological and social correlates of cryptocurrency ownership
-- NFT art essentialism — perceived permanence vs on-chain persistence
+- NFT art essentialism; perceived permanence vs on-chain persistence
 
 ### Criminal & exploitative dynamics
 - Documented fraud patterns separated from anecdotal accounts
@@ -45,15 +45,15 @@ A comparative psychological and market-structure analysis of **physical TCG ecos
 
 ## Study structure
 
-1. **WXYZ Framework** — organizing scaffold for side-by-side market psychology comparison
-2. **Reinforcement Psychology** — reveal-driven dopamine loops (loot boxes, pack rips)
-3. **Utility Anchor Gap** — playability vs programmed scarcity
-4. **Physical Market Pathologies** — scalping, retail friction, tampered inventory
-5. **Digital Pathologies** — rug pulls, whale concentration, casino dynamics
-6. **Psychographic Segmentation** — dark-trait correlates and cohort behavior
-7. **Gacha & Rip-and-Ship** — unregulated casino framing
-8. **Art Psychology** — essentialism and permanence threat in tokenized art
-9. **Strategic Generosity** — reputation penalties and exploitative relisting
+1. **WXYZ Framework**: organizing scaffold for side-by-side market psychology comparison
+2. **Reinforcement Psychology**: reveal-driven dopamine loops (loot boxes, pack rips)
+3. **Utility Anchor Gap**: playability vs programmed scarcity
+4. **Physical Market Pathologies**: scalping, retail friction, tampered inventory
+5. **Digital Pathologies**: rug pulls, whale concentration, casino dynamics
+6. **Psychographic Segmentation**: dark-trait correlates and cohort behavior
+7. **Gacha & Rip-and-Ship**: unregulated casino framing
+8. **Art Psychology**: essentialism and permanence threat in tokenized art
+9. **Strategic Generosity**: reputation penalties and exploitative relisting
 
 ---
 
@@ -62,7 +62,7 @@ A comparative psychological and market-structure analysis of **physical TCG ecos
 - **Tier 1:** peer-reviewed journals and preprints with DOIs
 - **Tier 2:** official regulator reports and court opinions
 - **Tier 3:** established news outlets and corporate disclosures
-- **Tier 4:** trade press, entertainment news, Reddit/X — labeled as documentary or UGC signals only
+- **Tier 4:** trade press, entertainment news, Reddit/X; labeled as documentary or UGC signals only
 
 The WXYZ table is an **organizing scaffold**, not a scored clinical instrument. Resale tactics and criminal conduct are separated into **corroborated incidents** vs **anecdotal accounts**.
 
@@ -72,9 +72,9 @@ The WXYZ table is an **organizing scaffold**, not a scored clinical instrument. 
 
 A private Vite/React companion project powers:
 
-- **Psychological Matrix** — demographic cohort scatter (life-stage × financialization × medium)
-- **Research viewer** — color-coded citations, tooltips, PDF/Markdown export
-- **`npm run validate:refs`** — keeps in-text `[n]` markers aligned with `references.json`
+- **Psychological Matrix**: demographic cohort scatter (life-stage × financialization × medium)
+- **Research viewer**: color-coded citations, tooltips, PDF/Markdown export
+- **`npm run validate:refs`**: keeps in-text `[n]` markers aligned with `references.json`
 
 This repo publishes the **static research artifact** for GitHub reading and citation.
 
@@ -82,9 +82,9 @@ This repo publishes the **static research artifact** for GitHub reading and cita
 
 ## Related work
 
-- **[TheMoun product overview](https://github.com/RawPowered/TheMoun)** — integrated capture workstation concept and current public-material scope
-- **[RawInvestor](https://github.com/RawPowered/RawInvestor)** — local-first TCG market signals and grading EV
-- **[@RawPowered profile](https://github.com/RawPowered)** — full builder portfolio
+- **[TheMoun product overview](https://github.com/RawPowered/TheMoun)**: integrated capture workstation concept and current public-material scope
+- **[RawInvestor](https://github.com/RawPowered/RawInvestor)**: local-first TCG market signals and grading EV
+- **[@RawPowered profile](https://github.com/RawPowered)**: full builder portfolio
 
 ---
 
